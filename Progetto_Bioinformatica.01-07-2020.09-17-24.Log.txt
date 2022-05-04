@@ -1,0 +1,23 @@
+ELENCO INPUT FORNITI:
+gruppo=F.Bellemo, D.Gattafoni, V.Minisini, G.Saccomano
+file_id=input.txt
+input_number=25
+file_out=Risultato.txt
+
+ELENCO OGGETTI PRODOTTI:
+refSeqFuncElems
+tabella_gtex
+prima_ricerca
+seconda_ricerca
+terza_ricerca
+colonne_risultato_B
+quarta_ricerca
+quinta_ricerca
+colonne_risultato_C
+colonne_risultato_D
+colonne_risultato_D2
+
+ELENCO OGGETTI OUTPUT:
+final_tibble_B
+final_tibble_C
+final_tibble_D
